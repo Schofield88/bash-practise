@@ -1,0 +1,13 @@
+clear
+echo "Welcome, Luke Phyall of the clan McBoss. Prepre to be a legend."
+echo ""
+echo "The date is $(date)."
+echo ""
+alias c="clear"
+alias l="ls -al"
+alias p="pwd"
+
+alias g="git status"
+alias ho="cd ~/Projects"
+PATH=~/bin:$PATH
+alias remote="~/bin/remote.sh"
