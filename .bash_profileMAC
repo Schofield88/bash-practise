@@ -1,5 +1,5 @@
 clear
-echo "Welcome, Luke Phyall of the clan McBoss. Prepre to be a legend."
+echo "Welcome, Luke Phyall of the clan McBoss. Prepare to be a legend."
 echo ""
 echo "The date is $(date)."
 echo ""
